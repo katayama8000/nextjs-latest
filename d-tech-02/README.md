@@ -1,1 +1,0 @@
-- [firestore](https://console.firebase.google.com/u/0/project/katayama-sandbox-639ef/firestore/data/~2FLA~2FnqyfefEia1hHLAKuswrU)
